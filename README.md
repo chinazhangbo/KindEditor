@@ -1,2 +1,2 @@
 # KindEditor
-浏览器纷纷启用flash，KindEditor多文件上传使用了flash，将多文件上传的flash形式升级为H5形式。
+浏览器纷纷弃用flash，KindEditor多文件上传使用了flash，给客户带来多文件无法使用的困扰，本案例目的是将多文件上传的flash形式升级为H5形式。
