@@ -1,0 +1,2 @@
+# KindEditor
+浏览器纷纷启用flash，KindEditor多文件上传使用了flash，将多文件上传的flash形式升级为H5形式。
